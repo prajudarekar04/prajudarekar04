@@ -1,9 +1,10 @@
- # 🌐 Prajakta Darekar. – Portfolio
+ # 🌐 Prajakta Darekar. – Software Engineer (PLM Windchill | Java)
 
-Welcome to my personal portfolio website!  
-This site showcases my projects, technical skills, and professional details.  
+Welcome to my GitHub profile 👋  
+I am a Java Developer working in PLM Windchill at ACTIN Technologies.
+This space highlights my professional journey, technical skills, and selected projects.
 
-**🔗 Live Portfolio:** [https://prajudarekar04.github.io/prajudarekar04](https://prajudarekar04.github.io/prajudarekar04)
+**🔗 Portfolio:** [https://prajudarekar04.github.io/prajudarekar04](https://prajudarekar04.github.io/prajudarekar04)
 
 ---
 
@@ -11,6 +12,15 @@ This site showcases my projects, technical skills, and professional details.
 I am a Computer Science graduate with a strong foundation in Java, C++, C#, and MySQL. I enjoy designing practical software solutions with a focus on clean, logical, and efficient code.
 
 💡 A problem-solver at heart, I believe in learning continuously and building solutions that make a difference.
+
+---
+## 🏢 Professional Experience
+**ACTIN Technologies**
+
+Role: Java Developer (PLM Windchill)
+Domain: Product Lifecycle Management (PLM)
+
+Key Responsibilities:
 
 ---
 
